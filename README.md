@@ -48,3 +48,8 @@ cd ..
 
 [![click para ver video](asset/descarga.png)](https://youtu.be/KrLj6nc516A?si=FjQ85OV8oLICW_C7)
 [![click parA VE EL VIDEO](https://ae01.alicdn.com/kf/S55e25c9d9ccc4db3955ef8107370a6beJ.png)](https://youtu.be/6XrikHXHchs?si=YCQ4NNQejaRWgbwk)
+
+---
+## demo
+si quiere cer el programa dar clik
+[open in stackblitz](https://stackblitz.com/edit/secret-python-lvvf4lnm?file=main.py)
