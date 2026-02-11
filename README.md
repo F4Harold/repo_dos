@@ -1,6 +1,6 @@
 # proyecto de uso de herramienta git con contrbuyentes 
 
-breve descripcion 
+rama para generar conflicto
 ---
 
 ## tabla de contenio 
