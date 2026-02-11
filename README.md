@@ -39,3 +39,11 @@ pasos pára la intalar el proyecto localmente
 ```bash 
 git https://github.com/F4Harold/repo_dos.git
 cd proyecto
+cd ..
+
+```
+---
+
+## video tutorial 
+
+[![click para ver video](asset/descarga.png)](https://youtu.be/KrLj6nc516A?si=FjQ85OV8oLICW_C7)
