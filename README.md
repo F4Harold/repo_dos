@@ -1,6 +1,7 @@
 # proyecto de uso de herramienta git con contrbuyentes 
 
 breve descripcion 
+harold
 ---
 
 ## tabla de contenio 
