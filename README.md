@@ -47,4 +47,4 @@ cd ..
 ## video tutorial 
 
 [![click para ver video](asset/descarga.png)](https://youtu.be/KrLj6nc516A?si=FjQ85OV8oLICW_C7)
-[![click parA VE EL VIDEO](https://pt.aliexpress.com/p/wiki/article.html?keywords=deadpool-png-desenho)](https://youtu.be/6XrikHXHchs?si=YCQ4NNQejaRWgbwk)
+[![click parA VE EL VIDEO](https://ae01.alicdn.com/kf/S55e25c9d9ccc4db3955ef8107370a6beJ.png)](https://youtu.be/6XrikHXHchs?si=YCQ4NNQejaRWgbwk)
